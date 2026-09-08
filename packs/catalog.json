@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "packs": [
+    {"id":"natural-realism","name":"Natural Realism","description":"Équilibre qualité / performances","quality":4,"performance":4,"archive":"natural-realism.zip"},
+    {"id":"ultra-visual","name":"Ultra Visual","description":"Qualité graphique maximale","quality":5,"performance":2,"archive":"ultra-visual.zip"},
+    {"id":"performance","name":"Performance","description":"Priorité aux FPS","quality":2,"performance":5,"archive":"performance.zip"}
+  ]
+}
